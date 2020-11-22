@@ -1,0 +1,36 @@
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+    color: red;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: red;
+}
+.card-title a:hover  {
+    color: rgb(187, 28, 28);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-body:hover{
+    background-color: rgb(135, 212, 226);
+}
+
+.card-body .card-text:hover{
+    font-weight: bold;
+
+}
+
+.card-body h5:hover{
+    font-weight: bold;
+    color: rgb(10, 104, 26);
+}
+
+form{
+    width: 50%;
+    margin: auto;
+}
+
+form input, form textarea{  
+    width: 100%;
+    display: block;
+}
